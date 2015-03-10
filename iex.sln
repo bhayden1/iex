@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iex", "iex.csproj", "{8C2A5EF8-A3F7-460A-A10C-A396B4228E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iex.test", "..\iex.test\iex.test.csproj", "{BB0ADB17-3569-4690-BFAE-F7A155D8B679}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iex.test", "iex.test\iex.test.csproj", "{BB0ADB17-3569-4690-BFAE-F7A155D8B679}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

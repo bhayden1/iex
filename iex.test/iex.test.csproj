@@ -55,7 +55,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\iex\iex.csproj">
+    <ProjectReference Include="..\iex.csproj">
       <Project>{8c2a5ef8-a3f7-460a-a10c-a396b4228e6a}</Project>
       <Name>iex</Name>
     </ProjectReference>
